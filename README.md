@@ -6,7 +6,7 @@ playerScore (number)
 
 +Start Mongo Server+
 
-sudo mongod --dbpath ~/code/db
+sudo mongod --dbpath ~/code/db (or wherever you want to store your database)
 
 +Start HTTP Server+
 
